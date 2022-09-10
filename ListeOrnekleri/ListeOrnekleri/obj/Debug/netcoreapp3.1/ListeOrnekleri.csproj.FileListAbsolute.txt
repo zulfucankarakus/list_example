@@ -1,0 +1,38 @@
+C:\Users\Siliconmade Academy\source\repos\ListeOrnekleri\ListeOrnekleri\bin\Debug\netcoreapp3.1\ListeOrnekleri.exe
+C:\Users\Siliconmade Academy\source\repos\ListeOrnekleri\ListeOrnekleri\bin\Debug\netcoreapp3.1\ListeOrnekleri.deps.json
+C:\Users\Siliconmade Academy\source\repos\ListeOrnekleri\ListeOrnekleri\bin\Debug\netcoreapp3.1\ListeOrnekleri.runtimeconfig.json
+C:\Users\Siliconmade Academy\source\repos\ListeOrnekleri\ListeOrnekleri\bin\Debug\netcoreapp3.1\ListeOrnekleri.runtimeconfig.dev.json
+C:\Users\Siliconmade Academy\source\repos\ListeOrnekleri\ListeOrnekleri\bin\Debug\netcoreapp3.1\ListeOrnekleri.dll
+C:\Users\Siliconmade Academy\source\repos\ListeOrnekleri\ListeOrnekleri\bin\Debug\netcoreapp3.1\ListeOrnekleri.pdb
+C:\Users\Siliconmade Academy\source\repos\ListeOrnekleri\ListeOrnekleri\obj\Debug\netcoreapp3.1\ListeOrnekleri.csprojAssemblyReference.cache
+C:\Users\Siliconmade Academy\source\repos\ListeOrnekleri\ListeOrnekleri\obj\Debug\netcoreapp3.1\ListeOrnekleri.AssemblyInfoInputs.cache
+C:\Users\Siliconmade Academy\source\repos\ListeOrnekleri\ListeOrnekleri\obj\Debug\netcoreapp3.1\ListeOrnekleri.AssemblyInfo.cs
+C:\Users\Siliconmade Academy\source\repos\ListeOrnekleri\ListeOrnekleri\obj\Debug\netcoreapp3.1\ListeOrnekleri.csproj.CoreCompileInputs.cache
+C:\Users\Siliconmade Academy\source\repos\ListeOrnekleri\ListeOrnekleri\obj\Debug\netcoreapp3.1\ListeOrnekleri.dll
+C:\Users\Siliconmade Academy\source\repos\ListeOrnekleri\ListeOrnekleri\obj\Debug\netcoreapp3.1\ListeOrnekleri.pdb
+C:\Users\Siliconmade Academy\source\repos\ListeOrnekleri\ListeOrnekleri\obj\Debug\netcoreapp3.1\ListeOrnekleri.genruntimeconfig.cache
+C:\Users\Siliconmade Academy\Desktop\ListeOrnekleri\ListeOrnekleri\bin\Debug\netcoreapp3.1\ListeOrnekleri.exe
+C:\Users\Siliconmade Academy\Desktop\ListeOrnekleri\ListeOrnekleri\bin\Debug\netcoreapp3.1\ListeOrnekleri.deps.json
+C:\Users\Siliconmade Academy\Desktop\ListeOrnekleri\ListeOrnekleri\bin\Debug\netcoreapp3.1\ListeOrnekleri.runtimeconfig.json
+C:\Users\Siliconmade Academy\Desktop\ListeOrnekleri\ListeOrnekleri\bin\Debug\netcoreapp3.1\ListeOrnekleri.runtimeconfig.dev.json
+C:\Users\Siliconmade Academy\Desktop\ListeOrnekleri\ListeOrnekleri\bin\Debug\netcoreapp3.1\ListeOrnekleri.dll
+C:\Users\Siliconmade Academy\Desktop\ListeOrnekleri\ListeOrnekleri\bin\Debug\netcoreapp3.1\ListeOrnekleri.pdb
+C:\Users\Siliconmade Academy\Desktop\ListeOrnekleri\ListeOrnekleri\obj\Debug\netcoreapp3.1\ListeOrnekleri.AssemblyInfoInputs.cache
+C:\Users\Siliconmade Academy\Desktop\ListeOrnekleri\ListeOrnekleri\obj\Debug\netcoreapp3.1\ListeOrnekleri.AssemblyInfo.cs
+C:\Users\Siliconmade Academy\Desktop\ListeOrnekleri\ListeOrnekleri\obj\Debug\netcoreapp3.1\ListeOrnekleri.csproj.CoreCompileInputs.cache
+C:\Users\Siliconmade Academy\Desktop\ListeOrnekleri\ListeOrnekleri\obj\Debug\netcoreapp3.1\ListeOrnekleri.dll
+C:\Users\Siliconmade Academy\Desktop\ListeOrnekleri\ListeOrnekleri\obj\Debug\netcoreapp3.1\ListeOrnekleri.pdb
+C:\Users\Siliconmade Academy\Desktop\ListeOrnekleri\ListeOrnekleri\obj\Debug\netcoreapp3.1\ListeOrnekleri.genruntimeconfig.cache
+C:\Users\mmuha\Desktop\ListeOrnekleri\ListeOrnekleri\bin\Debug\netcoreapp3.1\ListeOrnekleri.exe
+C:\Users\mmuha\Desktop\ListeOrnekleri\ListeOrnekleri\bin\Debug\netcoreapp3.1\ListeOrnekleri.deps.json
+C:\Users\mmuha\Desktop\ListeOrnekleri\ListeOrnekleri\bin\Debug\netcoreapp3.1\ListeOrnekleri.runtimeconfig.json
+C:\Users\mmuha\Desktop\ListeOrnekleri\ListeOrnekleri\bin\Debug\netcoreapp3.1\ListeOrnekleri.runtimeconfig.dev.json
+C:\Users\mmuha\Desktop\ListeOrnekleri\ListeOrnekleri\bin\Debug\netcoreapp3.1\ListeOrnekleri.dll
+C:\Users\mmuha\Desktop\ListeOrnekleri\ListeOrnekleri\bin\Debug\netcoreapp3.1\ListeOrnekleri.pdb
+C:\Users\mmuha\Desktop\ListeOrnekleri\ListeOrnekleri\obj\Debug\netcoreapp3.1\ListeOrnekleri.csprojAssemblyReference.cache
+C:\Users\mmuha\Desktop\ListeOrnekleri\ListeOrnekleri\obj\Debug\netcoreapp3.1\ListeOrnekleri.AssemblyInfoInputs.cache
+C:\Users\mmuha\Desktop\ListeOrnekleri\ListeOrnekleri\obj\Debug\netcoreapp3.1\ListeOrnekleri.AssemblyInfo.cs
+C:\Users\mmuha\Desktop\ListeOrnekleri\ListeOrnekleri\obj\Debug\netcoreapp3.1\ListeOrnekleri.csproj.CoreCompileInputs.cache
+C:\Users\mmuha\Desktop\ListeOrnekleri\ListeOrnekleri\obj\Debug\netcoreapp3.1\ListeOrnekleri.dll
+C:\Users\mmuha\Desktop\ListeOrnekleri\ListeOrnekleri\obj\Debug\netcoreapp3.1\ListeOrnekleri.pdb
+C:\Users\mmuha\Desktop\ListeOrnekleri\ListeOrnekleri\obj\Debug\netcoreapp3.1\ListeOrnekleri.genruntimeconfig.cache

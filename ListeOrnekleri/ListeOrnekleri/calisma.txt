@@ -1,0 +1,82 @@
+﻿           
+            //Cinisyeti kız ve şubesi a olan öğrencileri sıralar
+            //liste1 = ogrenciler.Where(a => a.Cinsiyet == CINSIYET.Kiz && a.Subesi == SUBE.A).ToList(); 
+            
+            //Notu 75'den küçük ve 50'den büyük olan öğrencileri yazdıralım
+            //liste1 = ogrenciler.Where(a => a.Not > 50 && a.Not < 75).OrderBy(a => a.Subesi).ToList();
+
+            //Yaşı 30'dan küçük olan ve notu 60'dan büyük olan öğrecilerin sıralar
+            //liste1 = ogrenciler.Where(a => a.Yas < 30 && a.Not > 60).ToList();
+
+
+            //Cinsiyeti erkek ve subesi c olan öğrencilerden 20 yaş üstü olanları sıralar
+            //liste1 = ogrenciler.Where(a => a.Cinsiyet == CINSIYET.Erkek && a.Subesi == SUBE.C).OrderBy(a => a.Yas > 20).ToList();
+
+            //Alanı eşit ağırlık olan ve notu 65 den büyük c şubesindeki kız öğrencileri sıralar
+            //liste1 = ogrenciler.Where(a => a.Alan == ALAN.EsitAgirlik && a.Subesi == SUBE.C && a.Not > 65).OrderBy(a => a.Cinsiyet == CINSIYET.Kiz).ToList();
+
+            //Alanı sayısal olan ve cinsiyeti erkek olan öğrencileri sıralar
+            //liste1 = ogrenciler.Where(a => a.Cinsiyet == CINSIYET.Erkek && a.Alan == ALAN.Sayisal).ToList();
+
+            //Yaşı 35' den büyük olan öğrencilerin not ortalamasını sıralar
+            //double ortalama = ogrenciler.Where(a => a.Yas > 35).Average(a => a.Not);
+            //Console.WriteLine(ortalama);
+
+            //Alanı sözel olan ve notu 50 den yüksek olan kız öğrecilerin ortalamasını sıralar
+            //double ortalama = ogrenciler.Where(a => a.Alan == ALAN.Sozel && a.Not > 50 && a.Cinsiyet == CINSIYET.Kiz).Average(a => a.Not);
+            //Console.WriteLine(ortalama);
+
+            //Alanı sayısal olan erkek öğrencileri notlarına göre büyükten küçüğe sıralar
+            //liste1 = ogrenciler.Where(a => a.Alan == ALAN.Sayisal && a.Cinsiyet == CINSIYET.Erkek).OrderByDescending(a => a.Not).ToList();
+
+            //Alanı sayısal olan notu en yüksek olan ilk 3 öğrenciyi sıralar
+            //liste1 = ogrenciler.Where(a => a.Alan == ALAN.Sayisal).OrderByDescending(a => a.Not).Take(3).ToList();
+
+            //Alanı sayısal olan ve notu en yüksek olan ilk 2 kız öğrenciyi sıralar
+            //liste1 = ogrenciler.Where(a => a.Alan == ALAN.Sayisal && a.Cinsiyet==CINSIYET.Kiz).OrderByDescending(a => a.Not).Take(2).ToList();
+
+            //Cinsiyeti erkek olan d şubesi öğrencilerinden notu en yüksek olan öğrenciyi sıralar
+            //int not = ogrenciler.Where(a => a.Subesi == SUBE.D && a.Cinsiyet == CINSIYET.Erkek).Max(a => a.Not);
+            //Ogrenci t = ogrenciler.Where(a => a.Subesi == SUBE.D && a.Cinsiyet == CINSIYET.Erkek).OrderByDescending(a => a.Not).FirstOrDefault();
+            //Console.WriteLine(t.Not);
+            //Console.WriteLine(not);
+
+
+            //liste1 = ogrenciler.Where(s => s.Subesi == SUBE.B && s.Not > 60).ToList();
+            ////D şubesindeki, ortalaması 50'den yüksek olan öğrencileri listeleyin
+            //liste1 = ogrenciler.Where(a => a.Subesi == SUBE.D && a.Not > 50).ToList();
+
+            ////OrderBy, lambda ifadesinde belirtilen özelliğe göre küçükten büyüğe sıralar
+            //liste1 = ogrenciler.OrderBy(a => a.Not).ToList();
+
+            ////OrderBy, lambda ifadesinde belirtilen özelliğe göre büyükten küçüğe sıralar
+            //liste1 = ogrenciler.OrderByDescending(a => a.Ad).ToList();
+
+            ////B şubesindeki, isme göre A-Z'ye sıralanmış öğrencilerden ilk 3'ünü getiren linq ifadesini yazın
+            //liste1 = ogrenciler.Where(a => a.Subesi == SUBE.B).OrderBy(b => b.Ad).Take(3).ToList();
+
+            ////A veya B şubesindeki öğrencilerden, not ortalaması en düşük iki öğrencinin bilgileri
+            //liste1 = ogrenciler.Where(x => x.Subesi == SUBE.A || x.Subesi == SUBE.B).OrderBy(a => a.Not).Take(2).ToList();
+
+            ////C şubesinde olmayan öğrencilerden not ortalaması en yüksek öğrencinin adı
+            //liste1 = ogrenciler.Where(a => a.Subesi != SUBE.C).OrderByDescending(a => a.Not).ToList();
+
+            ////C şubesinde olmayan öğrencilerden not ortalaması en yüksek öğrencinin adı
+            //Ogrenci t = ogrenciler.Where(a => a.Subesi != SUBE.C).OrderByDescending(a => a.Not).FirstOrDefault();
+
+            //Console.WriteLine(t.Ad);
+
+            ////tüm ogrencilerin not ortalamalarının toplamı
+            //int toplam = ogrenciler.Sum(a => a.Not);
+
+            ////öğrencilerin numaralarının ortalaması
+            //double noOrtalamasi = ogrenciler.Average(a => a.No);
+
+            //int enBuyukNo = ogrenciler.Where(a => a.Subesi == SUBE.D).Min(a => a.Not);
+
+
+            ////A şubesinde en yüksek nota sahip 3 öğrencinin notlarının ortalaması
+
+            //double x = ogrenciler.Where(a => a.Subesi == SUBE.A).OrderByDescending(a => a.Not).Take(3).Average(a => a.Not);
+
+            //Console.WriteLine(noOrtalamasi);

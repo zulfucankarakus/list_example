@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{019B8972-719E-4EFD-BCCC-9DDE6CD4BBDE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ListeOrnekleri/Program.cs">
+    <Files>
+      <File FileName="ListeOrnekleri/Program.cs" Line="14" Column="1" />
+      <File FileName="ListeOrnekleri/Ogrenci.cs" />
+      <File FileName="ListeOrnekleri/Uygulama.cs" />
+      <File FileName="ListeOrnekleri/calisma.txt" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ListeOrnekleri" expanded="True">
+            <Node name="ListeOrnekleri" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ListeOrnekleri PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
